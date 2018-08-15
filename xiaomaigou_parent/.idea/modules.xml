@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_common/xiaomaigou_common.iml" filepath="$PROJECT_DIR$/xiaomaigou_common/xiaomaigou_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_dao/xiaomaigou_dao.iml" filepath="$PROJECT_DIR$/xiaomaigou_dao/xiaomaigou_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_manager_web/xiaomaigou_manager_web.iml" filepath="$PROJECT_DIR$/xiaomaigou_manager_web/xiaomaigou_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_parent.iml" filepath="$PROJECT_DIR$/xiaomaigou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_pojo/xiaomaigou_pojo.iml" filepath="$PROJECT_DIR$/xiaomaigou_pojo/xiaomaigou_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/xiaomaigou_sellergoods_interface.iml" filepath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/xiaomaigou_sellergoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/xiaomaigou_sellergoods_service.iml" filepath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/xiaomaigou_sellergoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" filepath="$PROJECT_DIR$/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" />
+    </modules>
+  </component>
+</project>

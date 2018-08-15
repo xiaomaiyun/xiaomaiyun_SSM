@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xiaomaigou_common" />
+        <module name="xiaomaigou_dao" />
+        <module name="xiaomaigou_manager_web" />
+        <module name="xiaomaigou_pojo" />
+        <module name="xiaomaigou_sellergoods_interface" />
+        <module name="xiaomaigou_sellergoods_service" />
+        <module name="xiaomaigou_shop_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xiaomaigou_common" target="1.7" />
+      <module name="xiaomaigou_dao" target="1.7" />
+      <module name="xiaomaigou_manager_web" target="1.7" />
+      <module name="xiaomaigou_parent" target="1.7" />
+      <module name="xiaomaigou_pojo" target="1.7" />
+      <module name="xiaomaigou_sellergoods_interface" target="1.7" />
+      <module name="xiaomaigou_sellergoods_service" target="1.7" />
+      <module name="xiaomaigou_shop_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
