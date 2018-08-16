@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>入门小Demo_4  控制器</title>
+	<script src="angular.min.js"></script>
+	<script>
+		var app=angular.module('myApp',[]); //定义了一个叫myApp的模块，方括号里面放其它需要被引用的模块
+		//定义控制器，$scope就是控制层与视图层之间交换数据的桥梁
+		app.controller('myController',function($scope){
+			$scope.add=function(){
+			//return $scope.x+$scope.y;
+				return parseInt($scope.x)+parseInt($scope.y);
+			
+			}
+		});
+	</script>
+</head>
+<body ng-app="myApp" ng-controller="myController">
+x:<input ng-model="x" >
+y:<input ng-model="y" >
+运算结果：{{add()}}
+</body>
+</html>

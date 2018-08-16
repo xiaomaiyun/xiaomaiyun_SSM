@@ -1,11 +1,524 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7cc1847-9ab9-44dd-b4f9-8e3a6c97560d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo_demo_service/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubbo/dubbo_demo_service/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo_demo_web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubbo/dubbo_demo_web/.idea/workspace.xml" />
+    <list default="true" id="e7cc1847-9ab9-44dd-b4f9-8e3a6c97560d" name="Default" comment="完成品牌管理增、删、改、查功能">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/angular.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/data.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_01.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_02_双向绑定.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_03_初始化指令.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_04_控制器.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_05_事件指令.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_06_循环数据.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_07_循环对象数组.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AngularJS/demo_08_内置服务.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/content_category.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/goods.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/seller.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/seller_1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/specification.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/pages-login-manage.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/webbase.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/57b51ea9Nb862ca5e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/Logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/b2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/b3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/banner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/buy001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/buy002.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/buy01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/car.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/code.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/cooperation_banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/down-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/dp01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/dp02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/dp03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/dp04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/empty_heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/erweima.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/fail.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/gocart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/gocart01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/gotop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/icon-red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/intro01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/intro02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/intro03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/itemlike06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/l-m01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/list.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/list.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/login-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/manage-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/mobile06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/part01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/part02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/part03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/pay5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/phone14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/photo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/photo_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/s1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/s2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/s3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/sampling_head.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/seckillbg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/shi_heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/shop-intro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/shop-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/shop-part.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/t.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/title_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/y24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/account.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/ad.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/ad1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/ali.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/american-express.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/itemlike/itemlike06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/fail.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/pay5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/pay/right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/dp01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/dp02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/dp03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/dp04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/intro01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/intro02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/intro03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/l-m01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/mobile06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/part01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/part02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/part03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/phone/phone14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/success-cart/buy001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/success-cart/buy002.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/success-cart/buy01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/success-cart/gocart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/success-cart/gocart01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/b2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/b3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/s1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/s2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/assets/img/zoom/s3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/avatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/avatar04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/avatar2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/avatar3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/avatar5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/banner1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/banner1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/banner2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/banner3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/banner4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/barrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/boxed-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/boxed-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/brand_21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/cartPanelViewIcons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/choosed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/cirrus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/delete.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/duihuan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/erweima.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-b01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-b02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/floor-1-b03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/goods.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/icon-red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/interest06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/like_06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/linker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/lock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/loginbg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/mestro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/mod-list.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/paypal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/paypal2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/phone-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/photo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/photo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/photo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/photo3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/photo4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/qq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/quan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/sina.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/today01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/today02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/today03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/today04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user1-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user2-160x160.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user3-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user4-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user5-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user6-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user7-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/user8-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/wx_cz.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/zoom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/addressList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/city-picker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/getOrderInfo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/home.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/jquery.slideunlock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/login-manage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/person-collect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/person-footmark.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/register.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/seckill-index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/shop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/shoplogin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/pages/sm-city-picker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/birthday/birthday.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/citypicker/distpicker.data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/citypicker/distpicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/jquery-placeholder/jquery.placeholder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/jquery.easing/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/jquery.jqzoom/jquery.jqzoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/jquery.jqzoom/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/sui/sui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/plugins/upload/uploadPreview.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/avatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/avatar04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/avatar2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/avatar3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/avatar5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/american-express.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/cirrus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/mestro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/paypal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/paypal2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/credit/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/photo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/photo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/photo3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/photo4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user1-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user2-160x160.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user3-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user4-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user5-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user6-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/img/user8-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/js/app.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/js/demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/angular-animate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/angular-route.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/angular.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/pagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap-datetimepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/images/arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/jQuery/jquery-2.2.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/angular-select2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/release.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2-bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2-spinner.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_en.js.template" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_et.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_eu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_fa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_gl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ka.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_mk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_no.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_pt-PT.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_rs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_sk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_vi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2_locale_zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/select2/select2x2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/PageResult.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/Result.java" />
       <change beforePath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xiaomaigou_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/xiaomaigou_manager_web_war_exploded.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_dao/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/classes/com/xiaomaigou/manager/controller/BrandController.class" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/classes/com/xiaomaigou/manager/controller/BrandController.class" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/classes/com/xiaomaigou/manager/controller/BrandController.class" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/classes/com/xiaomaigou/manager/controller/BrandController.class" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/xiaomaigou_manager_web.iml" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/xiaomaigou_manager_web.iml" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/classes/com/xiaomaigou/sellergoods/service/BrandService.class" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/classes/com/xiaomaigou/sellergoods/service/BrandService.class" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,89 +536,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrandServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="32" />
-              <folding>
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/springmvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/config/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="69">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#890#891#0" expanded="true" />
-                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,10 +579,18 @@
     <findStrings>
       <find>fastjson</find>
       <find>javassist</find>
-      <find>pagehelper</find>
       <find>druid</find>
       <find>activemq</find>
       <find>solr</find>
+      <find>editModal</find>
+      <find>paginationConf</find>
+      <find>add</find>
+      <find>pagehelper</find>
+      <find>entity</find>
+      <find>searchEntity</find>
+      <find>dele</find>
+      <find>findOne</find>
+      <find>save</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,17 +612,22 @@
         <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/mybatis/SqlMapConfig.xml" />
-        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/pom.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_shop_web/pom.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbSellerMapper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/Result.java" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/PageResult.java" />
         <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" />
         <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
-        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" />
+        <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbCitiesMapper.xml" />
       </list>
     </option>
   </component>
@@ -190,6 +657,15 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaomaigou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaomaigou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xiaomaigou_sellergoods_service Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -207,13 +683,37 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="810" />
     <option name="y" value="7" />
     <option name="width" value="1119" />
     <option name="height" value="780" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -229,66 +729,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -358,6 +807,50 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -446,56 +939,11 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,17 +951,17 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_manager_web\src\main\webapp" />
       <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_dao\src\main\resources\database" />
       <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_dao\src\main\resources" />
       <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_dao\src\main\java" />
       <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_pojo\src\main\java" />
-      <recent name="D:\win10\chenjian2017\intellijIDEA\xiaomaiyun_SSM\xiaomaigou_parent\xiaomaigou_shop_web\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -630,46 +1078,46 @@
       <option name="presentableId" value="Default" />
       <updated>1534324507268</updated>
       <workItem from="1534324509047" duration="11760000" />
+      <workItem from="1534342057238" duration="29442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11760000" />
+    <option name="totallyTimeSpent" value="41202000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="810" y="7" width="1119" height="780" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28800756" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39660493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30028328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22707888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34019503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17270789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2489339" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,224 +1126,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成品牌管理增、删、改、查功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成品牌管理增、删、改、查功能" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbSpecificationMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbCitiesMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbFreightTemplateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbContentCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbAreasExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbAddressMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbAddressExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbUserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbAddressMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbContentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbAreas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbBrand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbCities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbOrderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbSeller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbSellerMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbPayLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="71" column="47" lean-forward="false" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,31 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbBrandMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,7 +1197,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,7 +1212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,10 +1223,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/database/xiaomaigoudb-v1.3.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="-2139">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1027,73 +1270,397 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.0.0/pagehelper-4.0.0.jar!/com/github/pagehelper/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3174">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1534336790185" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534336790185" expanded="false" signature="145:232" ph="..." />
+            <marker date="1534336790185" expanded="true" signature="656:663" ph="{}" />
+            <marker date="1534336790185" expanded="false" signature="707:718" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="760:766" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="825:836" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="891:897" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="974:1308" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="1361:1372" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="1404:1410" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="1460:1853" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="1885:1896" ph=" { " />
+            <marker date="1534336790185" expanded="true" signature="1908:1914" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="1941:1952" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="1970:1976" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="2004:2015" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2034:2040" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="2069:2080" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2100:2106" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="2148:2252" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="2282:2293" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2314:2320" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="2363:2374" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2399:2405" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="2435:2446" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2467:2473" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="2501:2512" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2530:2536" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="2575:2993" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="3045:3291" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="3327:3338" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="3361:3367" ph=" }" />
+            <marker date="1534336790185" expanded="false" signature="3405:3416" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="3441:3447" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="3503:3603" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="3648:3820" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="3850:3861" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="3885:3891" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="3933:4058" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="4102:4204" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="4246:4313" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="4365:4433" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="4489:4561" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="4592:5146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/pagination.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="58" column="496" lean-forward="false" selection-start-line="58" selection-start-column="496" selection-end-line="58" selection-end-column="496" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.0.0/pagehelper-4.0.0.jar!/com/github/pagehelper/PageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <marker date="1534336790185" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534336790185" expanded="false" signature="145:776" ph="..." />
+            <marker date="1534336790185" expanded="true" signature="778:942" ph="@{...}" />
+            <marker date="1534336790185" expanded="true" signature="1114:1121" ph="{}" />
+            <marker date="1534336790185" expanded="true" signature="1182:1193" ph=" { " />
+            <marker date="1534336790185" expanded="true" signature="1235:1241" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="1318:1392" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="1470:1548" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="1645:1731" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="1850:2054" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="2104:2223" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="2271:2282" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="2313:2319" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="2389:2534" ph="{...}" />
+            <marker date="1534336790185" expanded="true" signature="2600:3680" ph="{...}" />
+            <marker date="1534336790185" expanded="false" signature="3721:3732" ph=" { " />
+            <marker date="1534336790185" expanded="false" signature="3803:3809" ph=" }" />
+            <marker date="1534336790185" expanded="true" signature="3855:4445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/plugins/angularjs/pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3691">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1493869027967" expanded="true" signature="363:370" ph="«" />
+            <marker date="1493869027967" expanded="true" signature="746:753" ph="»" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="74" column="20" lean-forward="false" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="46">
+          <caret line="95" column="52" lean-forward="true" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="131" column="46" lean-forward="false" selection-start-line="131" selection-start-column="36" selection-end-line="131" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="7446" column="4" lean-forward="false" selection-start-line="7446" selection-start-column="4" selection-end-line="7446" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#552#553#0" expanded="false" />
+            <element signature="e#581#582#0" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#646#647#0" expanded="false" />
+            <element signature="e#678#679#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojo/TbBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="290">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_pojo/src/main/java/entity/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#417#418#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#494#495#0" expanded="false" />
+            <element signature="e#532#533#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
+            <element signature="e#596#597#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
+            <element signature="e#680#681#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="640">
+          <caret line="109" column="65" lean-forward="true" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
           <folding>
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1388#1389#0" expanded="false" />
+            <element signature="e#1445#1446#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/database/xiaomaigoudb-v1.3.sql">
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2139">
+        <state relative-caret-position="-483">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbItemCatMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
+            <marker date="1534335974348" expanded="true" signature="4614:4720" ph="select from tb_item_cat" />
+            <marker date="1534335974348" expanded="true" signature="5000:5060" ph="delete from tb_item_cat... " />
+            <marker date="1534335974348" expanded="true" signature="5359:5382" ph="delete from tb_item_cat... " />
+            <marker date="1534335974348" expanded="true" signature="5757:5942" ph="insert into tb_item_cat... " />
+            <marker date="1534335974348" expanded="true" signature="7271:7303" ph="select count... tb_item_cat" />
+            <marker date="1534335974348" expanded="true" signature="8480:8690" ph="update tb_item_cat... " />
+            <marker date="1534335974348" expanded="true" signature="9096:9442" ph="update tb_item_cat... " />
+            <marker date="1534335974348" expanded="true" signature="9737:9922" ph="update tb_item_cat... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbTypeTemplateMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbBrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbAreasMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="54" />
+          <folding>
+            <marker date="1534335974088" expanded="true" signature="4601:4705" ph="select from tb_areas" />
+            <marker date="1534335974088" expanded="true" signature="4988:5046" ph="delete from tb_areas... " />
+            <marker date="1534335974088" expanded="true" signature="5343:5363" ph="delete from tb_areas... " />
+            <marker date="1534335974088" expanded="true" signature="5736:5915" ph="insert into tb_areas... " />
+            <marker date="1534335974088" expanded="true" signature="7230:7259" ph="select count... tb_areas" />
+            <marker date="1534335974088" expanded="true" signature="8428:8632" ph="update tb_areas... " />
+            <marker date="1534335974088" expanded="true" signature="9036:9374" ph="update tb_areas... " />
+            <marker date="1534335974088" expanded="true" signature="9667:9846" ph="update tb_areas... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbProvincesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbAddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7985">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbAreasMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbCitiesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <marker date="1534335974101" expanded="true" signature="4617:4722" ph="select from tb_cities" />
+            <marker date="1534335974101" expanded="true" signature="5005:5064" ph="delete from tb_cities... " />
+            <marker date="1534335974101" expanded="true" signature="5362:5383" ph="delete from tb_cities... " />
+            <marker date="1534335974101" expanded="true" signature="5757:5945" ph="insert into tb_cities... " />
+            <marker date="1534335974101" expanded="true" signature="7279:7309" ph="select count... tb_cities" />
+            <marker date="1534335974101" expanded="true" signature="8491:8704" ph="update tb_cities... " />
+            <marker date="1534335974101" expanded="true" signature="9109:9460" ph="update tb_cities... " />
+            <marker date="1534335974101" expanded="true" signature="9754:9942" ph="update tb_cities... " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml">
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="69">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

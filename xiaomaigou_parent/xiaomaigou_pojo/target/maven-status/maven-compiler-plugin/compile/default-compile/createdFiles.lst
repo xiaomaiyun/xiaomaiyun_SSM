@@ -1,6 +1,7 @@
 com\xiaomaigou\pojo\TbOrderItemExample$GeneratedCriteria.class
 com\xiaomaigou\pojo\TbAddressExample.class
 com\xiaomaigou\pojo\TbItemExample$Criterion.class
+entity\Result.class
 com\xiaomaigou\pojo\TbAreasExample$Criteria.class
 com\xiaomaigou\pojo\TbBrandExample$Criterion.class
 com\xiaomaigou\pojo\TbContentCategoryExample$Criterion.class
@@ -91,6 +92,7 @@ com\xiaomaigou\pojo\TbSpecificationExample$Criterion.class
 com\xiaomaigou\pojo\TbItem.class
 com\xiaomaigou\pojo\TbSellerExample$Criteria.class
 com\xiaomaigou\pojo\TbGoodsDesc.class
+entity\PageResult.class
 com\xiaomaigou\pojo\TbGoods.class
 com\xiaomaigou\pojo\TbSpecificationOptionExample$Criterion.class
 com\xiaomaigou\pojo\TbSpecificationExample$Criteria.class
