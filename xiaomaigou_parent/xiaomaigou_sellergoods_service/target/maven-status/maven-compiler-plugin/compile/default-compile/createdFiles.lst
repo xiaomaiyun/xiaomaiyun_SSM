@@ -1,1 +1,9 @@
+com\xiaomaigou\sellergoods\service\impl\SellerServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\GoodsServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\ItemServiceImpl.class
 com\xiaomaigou\sellergoods\service\impl\BrandServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\SpecificationServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\GoodsDescServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\ItemCatServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\TypeTemplateServiceImpl.class
+com\xiaomaigou\sellergoods\service\impl\SpecificationOptionServiceImpl.class

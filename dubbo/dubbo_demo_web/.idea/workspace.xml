@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13e5955-07b8-447d-8c72-e733e42d3c30" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/base.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/base_pagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/baseController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/brandController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/service/brandService.js" />
       <change beforePath="$PROJECT_DIR$/../dubbo_demo_service/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubbo_demo_service/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../../generatorSqlmapCustom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../generatorSqlmapCustom/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/login.html___jb_old___" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,10 +44,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3703">
+            <state relative-caret-position="549">
               <caret line="161" column="34" lean-forward="false" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
               <folding />
             </state>
@@ -31,7 +57,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
+            <state relative-caret-position="828">
               <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
               <folding />
             </state>
@@ -58,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -140,6 +166,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -219,8 +247,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,14 +378,16 @@
       <updated>1534320209920</updated>
       <workItem from="1534320211670" duration="100000" />
       <workItem from="1534320334195" duration="6705000" />
+      <workItem from="1534478980342" duration="113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6805000" />
+    <option name="totallyTimeSpent" value="6918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="810" y="7" width="1119" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -368,22 +396,22 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3786591" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4358578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3786591" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4358578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30217186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30783758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -412,6 +440,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -430,16 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="828">
           <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -454,8 +514,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3703">
+        <state relative-caret-position="549">
           <caret line="161" column="34" lean-forward="false" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="36" />
           <folding />
         </state>
       </provider>

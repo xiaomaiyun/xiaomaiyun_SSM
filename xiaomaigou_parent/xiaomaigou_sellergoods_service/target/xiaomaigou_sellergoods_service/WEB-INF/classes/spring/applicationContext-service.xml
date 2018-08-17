@@ -8,9 +8,11 @@
 
     <!--访问dubbo所要占用的端口-->
     <dubbo:protocol name="dubbo" port="20881"></dubbo:protocol>
-
+    <!-- 当前的应用在注册中心的名称 -->
     <dubbo:application name="xiaomaigou_sellergoods_service"/>
+    <!-- dubbo注册中心zookeeper地址 -->
     <dubbo:registry address="zookeeper://192.168.199.99:2181"/>
+    <!--dubbo的扫描包，告诉dubbo这个服务所在的包 -->
     <dubbo:annotation package="com.xiaomaigou.sellergoods.service.impl"/>
 
 </beans>

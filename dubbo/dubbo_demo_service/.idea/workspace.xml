@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cd190b1-bbcb-4189-a093-036fb6f2f5d4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/base.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/base_pagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/baseController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/brandController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/service/brandService.js" />
       <change beforePath="$PROJECT_DIR$/../dubbo_demo_web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubbo_demo_web/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../../generatorSqlmapCustom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../generatorSqlmapCustom/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/login.html___jb_old___" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" afterPath="$PROJECT_DIR$/../../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,7 +44,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
@@ -38,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="92">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -51,8 +77,8 @@
       <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="299">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
@@ -75,8 +101,8 @@
       <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="184">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -153,10 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +247,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,6 +384,7 @@
       <workItem from="1534320156418" duration="158000" />
       <workItem from="1534320326289" duration="5213000" />
       <workItem from="1534340303583" duration="592000" />
+      <workItem from="1534474386110" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="dubbo_demo_service,dubbo_demo_web">
       <created>1534321784483</created>
@@ -370,11 +397,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5963000" />
+    <option name="totallyTimeSpent" value="6847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="810" y="7" width="1119" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -383,14 +409,14 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36921623" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36921623" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22946176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23418319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -424,6 +450,58 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -484,14 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -507,18 +577,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="23">
+          <caret line="158" column="33" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
@@ -527,18 +605,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenjian/dubbo/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="158" column="33" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
+        <state relative-caret-position="92">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>

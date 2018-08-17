@@ -70,6 +70,8 @@
         <table schema="" tableName="tb_order_item"></table>
         <table schema="" tableName="tb_pay_log"></table>
         <table schema="" tableName="tb_provinces"></table>
+        <table schema="" tableName="tb_seckill_goods"></table>
+        <table schema="" tableName="tb_seckill_order"></table>
         <table schema="" tableName="tb_seller"></table>
         <table schema="" tableName="tb_specification"></table>
         <table schema="" tableName="tb_specification_option"></table>

@@ -12,16 +12,17 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-//必须使用com.alibaba.dubbo.config.annotation.Servicez
+//必须使用com.alibaba.dubbo.config.annotation.Service
 @Service
-public class BrandServiceImpl implements BrandService{
+public class BrandServiceImpl implements BrandService {
 
     //注意：此处为本地调用
     @Autowired
     private TbBrandMapper brandMapper;
 
     /**
-     *返回所有品牌
+     * 返回所有品牌
+     *
      * @return
      */
     @Override
@@ -31,18 +32,20 @@ public class BrandServiceImpl implements BrandService{
 
     /**
      * 返回分页列表
+     *
      * @return
      */
     @Override
     public PageResult findPage(int pageNum, int pageSize) {
         PageHelper.startPage(pageNum, pageSize);//分页
-        Page<TbBrand> page=   (Page<TbBrand>) brandMapper.selectByExample(null);
+        Page<TbBrand> page = (Page<TbBrand>) brandMapper.selectByExample(null);
         return new PageResult(page.getTotal(), page.getResult());
 
     }
 
     /**
      * 增加品牌
+     *
      * @return
      */
     @Override
@@ -52,6 +55,7 @@ public class BrandServiceImpl implements BrandService{
 
     /**
      * 根据ID查询实体
+     *
      * @param id
      * @return
      */
@@ -62,6 +66,7 @@ public class BrandServiceImpl implements BrandService{
 
     /**
      * 修改
+     *
      * @param tbBrand
      */
     @Override
@@ -72,11 +77,12 @@ public class BrandServiceImpl implements BrandService{
 
     /**
      * 删除
+     *
      * @param ids
      */
     @Override
     public void delete(Long[] ids) {
-        for(Long id:ids){
+        for (Long id : ids) {
             brandMapper.deleteByPrimaryKey(id);
         }
 
@@ -84,8 +90,9 @@ public class BrandServiceImpl implements BrandService{
 
     /**
      * 品牌实体类查询
-     * @param brand 实体类
-     * @param pageNum 当前页面
+     *
+     * @param brand    实体类
+     * @param pageNum  当前页面
      * @param pageSize 每页记录数
      * @return
      */
@@ -93,15 +100,15 @@ public class BrandServiceImpl implements BrandService{
     public PageResult findPage(TbBrand brand, int pageNum, int pageSize) {
         PageHelper.startPage(pageNum, pageSize);//分页
 
-        TbBrandExample example=new TbBrandExample();
+        TbBrandExample example = new TbBrandExample();
 
         TbBrandExample.Criteria criteria = example.createCriteria();
-        if(brand!=null){
-            if(brand.getName()!=null && brand.getName().length()>0){
-                criteria.andNameLike("%"+brand.getName()+"%");
+        if (brand != null) {
+            if (brand.getName() != null && brand.getName().length() > 0) {
+                criteria.andNameLike("%" + brand.getName() + "%");
             }
-            if(brand.getFirstChar()!=null && brand.getFirstChar().length()>0){
-                criteria.andFirstCharLike("%"+brand.getFirstChar()+"%");
+            if (brand.getFirstChar() != null && brand.getFirstChar().length() > 0) {
+                criteria.andFirstCharLike("%" + brand.getFirstChar() + "%");
             }
         }
 

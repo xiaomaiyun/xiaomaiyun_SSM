@@ -15,7 +15,8 @@ public interface BrandService {
 
     /**
      * 品牌分页
-     * @param pageNum 当前页面
+     *
+     * @param pageNum  当前页码
      * @param pageSize 每页记录数
      * @return
      */
@@ -23,6 +24,7 @@ public interface BrandService {
 
     /**
      * 增加品牌
+     *
      * @return
      */
     public void add(TbBrand tbBrand);
@@ -30,6 +32,7 @@ public interface BrandService {
 
     /**
      * 根据ID查询实体
+     *
      * @param id
      * @return
      */
@@ -37,12 +40,14 @@ public interface BrandService {
 
     /**
      * 修改
+     *
      * @param tbBrand
      */
     public void update(TbBrand tbBrand);
 
     /**
      * 删除
+     *
      * @param ids
      */
     public void delete(Long[] ids);
@@ -50,11 +55,12 @@ public interface BrandService {
 
     /**
      * 品牌实体类查询
-     * @param brand 实体类
-     * @param pageNum 当前页面
+     *
+     * @param brand    实体类
+     * @param pageNum  当前页码
      * @param pageSize 每页记录数
      * @return
      */
-    public PageResult findPage(TbBrand brand, int pageNum,int pageSize);
+    public PageResult findPage(TbBrand brand, int pageNum, int pageSize);
 
 }

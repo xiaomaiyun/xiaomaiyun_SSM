@@ -18,9 +18,27 @@
     <link rel="stylesheet" href="../plugins/select2/select2-bootstrap.css" />
     <script src="../plugins/select2/select2.min.js" type="text/javascript"></script>
 
+	<!-- angularjs -->
+	<script type="text/javascript" src="../plugins/angularjs/angular.min.js"></script>
+
+	<!-- 分页组件开始 -->
+	<script src="../plugins/angularjs/pagination.js"></script>
+	<link rel="stylesheet" href="../plugins/angularjs/pagination.css">
+	<!-- 分页组件结束 -->
+
+	<!-- 注意：业务的调用均在下面的js代码中通过与前端变量进行双向绑定后调用实现 -->
+	<!-- 引入带分页功能的module -->
+	<script type="text/javascript" src="../js/base_pagination.js"></script>
+	<!-- 引入服务层 -->
+	<script type="text/javascript" src="../js/service/typeTemplateService.js"></script>
+	<!-- 引入基本控制层（由于brandController继承自baseController是，所有必须在brandController之前引入baseController） -->
+	<script type="text/javascript" src="../js/controller/baseController.js"></script>
+	<!-- 引入控制层 -->
+	<script type="text/javascript" src="../js/controller/typeTemplateController.js"></script>
+
 </head>
 
-<body class="hold-transition skin-red sidebar-mini" >
+<body class="hold-transition skin-red sidebar-mini" ng-app="xiaomaigou" ng-controller="typeTemplateController">
   <!-- .box-body -->
                 
                     <div class="box-header with-border">
@@ -91,21 +109,17 @@
 			                          </tr>
 			                      </tbody>
 			                  </table>
-			                  <!--数据列表/-->                        
-							  
-							 
-                        </div>
+			                  <!--数据列表/-->
+							<!-- 分页控件 -->
+							<!-- 在加载此控件的时候会触发onChange方法：更改页面时触发事件，所以无需ng-init="" 调用 -->
+							<tm-pagination conf="paginationConf"></tm-pagination>
+
+						</div>
                         <!-- 数据表格 /-->
-                        
-                        
-                        
-                        
+
                      </div>
                     <!-- /.box-body -->
-                    
-	           
-					    
-                                
+
 <!-- 编辑窗口 -->
 <div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog" >

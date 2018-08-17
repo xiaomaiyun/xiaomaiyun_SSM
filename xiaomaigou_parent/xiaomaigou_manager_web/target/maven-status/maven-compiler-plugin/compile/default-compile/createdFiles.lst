@@ -1,1 +1,9 @@
+com\xiaomaigou\manager\controller\ItemController.class
+com\xiaomaigou\manager\controller\GoodsController.class
+com\xiaomaigou\manager\controller\SpecificationController.class
+com\xiaomaigou\manager\controller\ItemCatController.class
+com\xiaomaigou\manager\controller\GoodsDescController.class
+com\xiaomaigou\manager\controller\TypeTemplateController.class
+com\xiaomaigou\manager\controller\SpecificationOptionController.class
+com\xiaomaigou\manager\controller\SellerController.class
 com\xiaomaigou\manager\controller\BrandController.class

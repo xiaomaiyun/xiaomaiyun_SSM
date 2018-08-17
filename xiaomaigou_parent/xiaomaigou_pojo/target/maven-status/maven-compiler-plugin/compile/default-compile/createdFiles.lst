@@ -1,5 +1,6 @@
 com\xiaomaigou\pojo\TbOrderItemExample$GeneratedCriteria.class
 com\xiaomaigou\pojo\TbAddressExample.class
+com\xiaomaigou\pojogroup\Specification.class
 com\xiaomaigou\pojo\TbItemExample$Criterion.class
 entity\Result.class
 com\xiaomaigou\pojo\TbAreasExample$Criteria.class

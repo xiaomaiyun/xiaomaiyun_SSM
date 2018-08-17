@@ -23,8 +23,9 @@
         </mvc:message-converters>
     </mvc:annotation-driven>
 
-    <!-- 引用dubbo 服务 -->
+    <!-- 引用dubbo服务 -->
     <dubbo:application name="xiaomaigou_manager_web"/>
+	<!-- dubbo注册中心zookeeper地址 -->
     <dubbo:registry address="zookeeper://192.168.199.99:2181"/>
     <dubbo:annotation package="com.xiaomaigou.manager.controller"/>
 
