@@ -6,8 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<title>小麦购运营商运营管理后台</title>
-	 <link rel="icon" href="../img/favicon.ico">
-
+	 <link rel="icon" href="img/favicon.ico">
 
     <link rel="stylesheet" type="text/css" href="css/webbase.css" />
     <link rel="stylesheet" type="text/css" href="css/pages-login-manage.css" />
@@ -34,15 +33,19 @@
 				<div class="tab-content tab-wraped">
 					<div id="index" class="tab-pane">
 						<p>二维码登录，暂为官网二维码</p>
-						<img src="../img/wx_cz.jpg" />
+						<img src="./img/wx_cz.jpg" />
 					</div>
 					<div id="profile" class="tab-pane  active">
-						<form class="sui-form">
+						<!-- /login为SpringSecurity框架默认自动生成，可以在配置文件中修改，method必须为post -->
+						<form id="loginform" action="login" method="post" class="sui-form">
+						<!--<form id="loginform" action="/login" method="post" class="sui-form">-->
 							<div class="input-prepend"><span class="add-on loginname"></span>
-								<input id="prependedInput" type="text" placeholder="邮箱/用户名/手机号" class="span2 input-xfat">
+								<!-- name="username"为SpringSecurity框架默认自动生成，可以在配置文件中修改-->
+								<input id="prependedInput" name="username" type="text" placeholder="邮箱/用户名/手机号" class="span2 input-xfat">
 							</div>
 							<div class="input-prepend"><span class="add-on loginpwd"></span>
-								<input id="prependedPasswordInput" type="password" placeholder="请输入密码" class="span2 input-xfat">
+								<!-- name="password"为SpringSecurity框架默认自动生成，可以在配置文件中修改-->
+								<input id="prependedPasswordInput" name="password" type="password" placeholder="请输入密码" class="span2 input-xfat">
 							</div>
 							<div class="setting">
 								 <div id="slider">
@@ -51,7 +54,8 @@
 									</div>
 							</div>
 							<div class="logined">
-								<a class="sui-btn btn-block btn-xlarge btn-danger" href="admin/index.html" target="_blank">登&nbsp;&nbsp;录</a>
+								<!-- onclick="document:loginform.submit()"为向超链接提交表单，href="admin/index.html"的目的是为了解决当用户直接访问非admin/index.html页面被拦截后登录成功后跳回原其它页面的问题，保证用户每次登录后都跳到admin/index.html-->
+								<a class="sui-btn btn-block btn-xlarge btn-danger" onclick="document:loginform.submit()" href="admin/index.html">登&nbsp;&nbsp;录</a>
 							</div>
 						</form>
 
@@ -79,7 +83,6 @@
 		<div class="beian">蜀ICP备123456789号
 		</div>
 	</div>
-
 
 <script type="text/javascript" src="js/plugins/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="js/plugins/sui/sui.min.js"></script>
