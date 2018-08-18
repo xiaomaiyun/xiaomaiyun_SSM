@@ -2,8 +2,9 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbProvinces;
 import com.xiaomaigou.pojo.TbProvincesExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface TbProvincesMapper {
     /**

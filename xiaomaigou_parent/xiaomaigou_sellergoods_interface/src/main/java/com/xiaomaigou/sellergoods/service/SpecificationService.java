@@ -5,6 +5,7 @@ import com.xiaomaigou.pojogroup.Specification;
 import entity.PageResult;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * 服务层接口
@@ -68,4 +69,11 @@ public interface SpecificationService {
      */
     public PageResult findPage(TbSpecification specification, int pageNum, int pageSize);
 
+
+    /**
+     * 模板管理规格下拉列表，select2要求格式必须为 { "id": 2, "text": "duplicate" }格式
+     *
+     * @return
+     */
+    public List<Map> selectOptionList();
 }

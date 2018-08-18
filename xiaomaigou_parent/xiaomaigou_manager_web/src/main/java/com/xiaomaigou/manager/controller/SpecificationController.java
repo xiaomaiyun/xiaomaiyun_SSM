@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * Controller
@@ -120,6 +121,17 @@ public class SpecificationController {
     @RequestMapping("/search")
     public PageResult search(@RequestBody TbSpecification specification, int page, int rows) {
         return specificationService.findPage(specification, page, rows);
+    }
+
+    /**
+     * 返回模板管理规格下拉列表数据
+     * 格式为select2要求格式：{ "id": 2, "text": "duplicate" }
+     *
+     * @return
+     */
+    @RequestMapping("/selectOptionList")
+    public List<Map> selectOptionList() {
+        return specificationService.selectOptionList();
     }
 
 }

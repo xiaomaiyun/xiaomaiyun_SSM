@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+import java.util.Map;
 
 //此处使用RestController，RestController相当于@Controller和@ResponseBody，这样就不用在每个方法上都写了@ResponseBody，这样可以少写很多代码，@ResponseBody表示该返回值为直接输出，如果不加则表示返回的是页面
 @RestController
@@ -76,6 +77,17 @@ public class BrandController {
     @RequestMapping("/search")
     public PageResult search(@RequestBody TbBrand brand, int page, int size) {
         return brandService.findPage(brand, page, size);
+    }
+
+    /**
+     * 返回模板管理下拉列表数据
+     * 格式为select2要求格式：{ "id": 2, "text": "duplicate" }
+     *
+     * @return
+     */
+    @RequestMapping("/selectOptionList")
+    public List<Map> selectOptionList() {
+        return brandService.selectOptionList();
     }
 
 }

@@ -11,6 +11,7 @@ import entity.PageResult;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
+import java.util.Map;
 
 //必须使用com.alibaba.dubbo.config.annotation.Service
 @Service
@@ -117,4 +118,13 @@ public class BrandServiceImpl implements BrandService {
         return new PageResult(page.getTotal(), page.getResult());
     }
 
+    /**
+     * 模板管理下拉列表，select2要求格式必须为 { "id": 2, "text": "duplicate" }格式
+     *
+     * @return
+     */
+    @Override
+    public List<Map> selectOptionList() {
+        return brandMapper.selectOptionList();
+    }
 }

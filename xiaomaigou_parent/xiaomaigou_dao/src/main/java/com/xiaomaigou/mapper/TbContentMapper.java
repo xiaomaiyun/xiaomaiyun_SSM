@@ -2,8 +2,9 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbContent;
 import com.xiaomaigou.pojo.TbContentExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface TbContentMapper {
     /**

@@ -2,8 +2,9 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbSeller;
 import com.xiaomaigou.pojo.TbSellerExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface TbSellerMapper {
     /**

@@ -4,6 +4,7 @@ import com.xiaomaigou.pojo.TbBrand;
 import entity.PageResult;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * 品牌接口
@@ -62,5 +63,13 @@ public interface BrandService {
      * @return
      */
     public PageResult findPage(TbBrand brand, int pageNum, int pageSize);
+
+    /**
+     * 返回模板管理下拉列表数据
+     * select2要求格式必须为 { "id": 2, "text": "duplicate" }格式
+     *
+     * @return
+     */
+    public List<Map> selectOptionList();
 
 }

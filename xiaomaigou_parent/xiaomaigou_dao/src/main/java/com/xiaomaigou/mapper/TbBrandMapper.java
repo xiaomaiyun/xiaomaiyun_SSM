@@ -2,8 +2,10 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbBrand;
 import com.xiaomaigou.pojo.TbBrandExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
+import java.util.Map;
 
 public interface TbBrandMapper {
     /**
@@ -93,4 +95,11 @@ public interface TbBrandMapper {
      * @mbg.generated Wed Aug 15 20:26:13 CST 2018
      */
     int updateByPrimaryKey(TbBrand record);
+
+    /**
+     * 模板管理品牌下拉列表，select2要求格式必须为 { "id": 2, "text": "duplicate" }格式
+     *
+     * @return
+     */
+    List<Map> selectOptionList();
 }

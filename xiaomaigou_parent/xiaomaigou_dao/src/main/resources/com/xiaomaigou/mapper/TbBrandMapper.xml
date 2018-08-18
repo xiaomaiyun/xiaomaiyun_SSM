@@ -253,4 +253,9 @@
       first_char = #{firstChar,jdbcType=VARCHAR}
     where id = #{id,jdbcType=BIGINT}
   </update>
+
+  <!--模板管理品牌下拉列表，因为select2要求格式必须为 { "id": 2, "text": "duplicate" }格式，所以将返回修改为Map格式-->
+  <select id="selectOptionList"  resultType="java.util.Map" >
+    select id,name as text from tb_brand
+  </select>
 </mapper>

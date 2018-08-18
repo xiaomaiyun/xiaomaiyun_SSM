@@ -2,8 +2,9 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbGoodsDesc;
 import com.xiaomaigou.pojo.TbGoodsDescExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface TbGoodsDescMapper {
     /**

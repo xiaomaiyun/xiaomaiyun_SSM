@@ -2,8 +2,10 @@ package com.xiaomaigou.mapper;
 
 import com.xiaomaigou.pojo.TbSpecification;
 import com.xiaomaigou.pojo.TbSpecificationExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
+import java.util.Map;
 
 public interface TbSpecificationMapper {
     /**
@@ -93,4 +95,12 @@ public interface TbSpecificationMapper {
      * @mbg.generated Wed Aug 15 20:26:14 CST 2018
      */
     int updateByPrimaryKey(TbSpecification record);
+
+
+    /**
+     * 模板管理规格下拉列表，select2要求格式必须为 { "id": 2, "text": "duplicate" }格式
+     *
+     * @return
+     */
+    List<Map> selectOptionList();
 }
