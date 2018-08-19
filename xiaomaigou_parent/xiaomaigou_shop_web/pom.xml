@@ -91,15 +91,25 @@
             <scope>provided</scope>
         </dependency>
 
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.security</groupId>-->
-            <!--<artifactId>spring-security-web</artifactId>-->
-        <!--</dependency>-->
+        <!-- pagehelper -->
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.miemiedev</groupId>
+            <artifactId>mybatis-paginator</artifactId>
+        </dependency>
 
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.security</groupId>-->
-            <!--<artifactId>spring-security-config</artifactId>-->
-        <!--</dependency>-->
+        <!-- 身份验证 -->
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-config</artifactId>
+        </dependency>
 
         <dependency>
             <groupId>com.xiaomaigou</groupId>
@@ -123,6 +133,7 @@
                     <!-- 指定监控的扫描时间间隔，0为关闭jetty自身的热部署 -->
                     <scanIntervalSeconds>0</scanIntervalSeconds>
                     <webAppConfig>
+                        <!--<contextPath>/${project.artifactId}</contextPath>-->
                         <contextPath>/${project.artifactId}</contextPath>
                     </webAppConfig>
                     <httpConnector>
@@ -143,6 +154,7 @@
             </plugin>
 
         </plugins>
+
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>

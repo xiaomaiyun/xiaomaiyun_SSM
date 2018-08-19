@@ -58,7 +58,7 @@ app.controller('sellerController' ,function($scope,$controller,sellerService){
 				if(response.success){
                     alert(response.message);
 					//如果注册成功，跳转到登录页
-		        	location.href="shoplogin.html";
+                    location.href="shoplogin.html";
 				}else{
 					alert(response.message);
 				}
