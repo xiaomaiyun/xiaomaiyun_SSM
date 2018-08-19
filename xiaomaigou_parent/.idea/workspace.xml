@@ -2,71 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7cc1847-9ab9-44dd-b4f9-8e3a6c97560d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/ano/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/ano/login_error.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/assets/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/service/UserDetailsServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/LoginController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/resources/spring/spring-security.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/cooperation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/login_error.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/register.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/sampling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/shoplogin.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/assets/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/controller/indexController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/service/loginService.js" />
-      <change beforePath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/springsecurity_demo.iml" afterPath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/springsecurity_demo.iml" />
-      <change beforePath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/src/main/webapp/login.html" afterPath="$PROJECT_DIR$/../SpringSecurity/springsecurity_demo/src/main/webapp/login.html" />
       <change beforePath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xiaomaigou_shop_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/xiaomaigou_shop_web_war_exploded.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_common/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_dao/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/spring-security.xml" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/spring-security.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/index.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/index.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/seller_1.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/seller_1.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/specification.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/specification.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/sellerService.js" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/sellerService.js" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/ItemCatController.java" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/ItemCatController.java" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/itemCatController.js" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/itemCatController.js" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/itemCatService.js" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/itemCatService.js" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/brand.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/index.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/index.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/seller_1.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/seller_1.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/specification.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/specification.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/type_template.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/type_template.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/login.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/item_cat.html" afterPath="$PROJECT_DIR$/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/item_cat.html" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/ItemCatService.java" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/ItemCatService.java" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/pom.xml" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/SellerController.java" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/SellerController.java" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/index.html" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/index.html" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/cooperation.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/controller/sellerController.js" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/controller/sellerController.js" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/service/sellerService.js" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/service/sellerService.js" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/register.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/sampling.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/shoplogin.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" afterPath="$PROJECT_DIR$/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,39 +61,61 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-943">
-              <caret line="101" column="21" lean-forward="false" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+            <state relative-caret-position="184">
+              <caret line="93" column="27" lean-forward="false" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/index.html">
+      <file leaf-file-name="ItemCatServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="456">
+              <caret line="100" column="65" lean-forward="false" selection-start-line="100" selection-start-column="65" selection-end-line="100" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/index.html">
+      <file leaf-file-name="itemCatController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/itemCatController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="39" column="54" lean-forward="true" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="131" />
+            <state relative-caret-position="451">
+              <caret line="109" column="37" lean-forward="true" selection-start-line="109" selection-start-column="37" selection-end-line="109" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/pom.xml">
+      <file leaf-file-name="itemCatService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/itemCatService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1567">
-              <caret line="169" column="53" lean-forward="false" selection-start-line="169" selection-start-column="53" selection-end-line="169" selection-end-column="53" />
+            <state relative-caret-position="687">
+              <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCatService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/ItemCatService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_cat.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-667">
+              <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,8 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fastjson</find>
-      <find>javassist</find>
       <find>druid</find>
       <find>activemq</find>
       <find>solr</find>
@@ -181,6 +161,8 @@
       <find>sellerModal</find>
       <find>注销</find>
       <find>loginName</find>
+      <find>png</find>
+      <find>jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,12 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/BrandService.java" />
-        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
-        <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbBrandMapper.xml" />
-        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/brandService.js" />
-        <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbSpecificationMapper.xml" />
-        <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbBrandMapper.java" />
         <option value="$PROJECT_DIR$/xiaomaigou_dao/src/main/java/com/xiaomaigou/mapper/TbSpecificationMapper.java" />
         <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/SpecificationService.java" />
         <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SpecificationServiceImpl.java" />
@@ -248,6 +224,12 @@
         <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/specification.html" />
         <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" />
         <option value="$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/index.html" />
+        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/itemCatService.js" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/itemCatController.js" />
+        <option value="$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html" />
       </list>
     </option>
   </component>
@@ -277,12 +259,6 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="xiaomaigou_manager_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xiaomaigou_sellergoods_service Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -310,12 +286,6 @@
           <item name="xiaomaigou_shop_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="xiaomaigou_shop_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
@@ -399,6 +369,23 @@
               <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -413,64 +400,146 @@
             <path>
               <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_sellergoods_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaomaigou_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaomaigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou_shop_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomaigou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -623,7 +692,7 @@
       <workItem from="1534601473882" duration="8545000" />
       <workItem from="1534610221587" duration="1765000" />
       <workItem from="1534612022032" duration="2336000" />
-      <workItem from="1534644859013" duration="26457000" />
+      <workItem from="1534644859013" duration="34629000" />
     </task>
     <task id="LOCAL-00001" summary="完成规格管理增、删、改、查功能">
       <created>1534514170000</created>
@@ -646,11 +715,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534613986132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成运营商管理系统和商家管理系统登录与安全控制">
+      <created>1534678355749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534678355749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151499000" />
+    <option name="totallyTimeSpent" value="159671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -665,7 +741,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23720682" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45131376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -699,7 +775,8 @@
     <MESSAGE value="完成规格管理增、删、改、查功能" />
     <MESSAGE value="完成商品类型模板管理（包括增、删、改、查等功能)" />
     <MESSAGE value="完成商家审核" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成商家审核" />
+    <MESSAGE value="完成运营商管理系统和商家管理系统登录与安全控制" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成运营商管理系统和商家管理系统登录与安全控制" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,235 +785,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SellerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#814#815#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#1651#1652#0" expanded="false" />
-            <element signature="e#1709#1710#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login_error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/service/UserDetailsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="48" column="41" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#864#865#0" expanded="false" />
-            <element signature="e#914#915#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/login_error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/shoplogin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-268">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/config/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/brandService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/sellerController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/SellerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-851">
-          <caret line="8" column="62" lean-forward="false" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/SellerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1058#1059#0" expanded="false" />
-            <element signature="e#1104#1105#0" expanded="false" />
-            <element signature="e#1244#1245#0" expanded="false" />
-            <element signature="e#1301#1302#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/brandController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="86" column="7" lean-forward="false" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#910#911#0" expanded="false" />
-            <element signature="e#955#956#0" expanded="false" />
-            <element signature="e#2516#2517#0" expanded="false" />
-            <element signature="e#2570#2571#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="189" column="10" lean-forward="false" selection-start-line="189" selection-start-column="10" selection-end-line="189" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/login_error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/resources/spring/spring-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="32" column="126" lean-forward="false" selection-start-line="32" selection-start-column="126" selection-end-line="32" selection-end-column="126" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1729">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/resources/config/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/resources/spring/spring-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/js/service/goodsService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/ano/login_error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/ano/cooperation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -970,14 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1817">
           <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2281">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -1122,26 +962,214 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/manage-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/img/_/car.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-943">
-          <caret line="101" column="21" lean-forward="false" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+        <state relative-caret-position="-2580">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/webbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3243">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/css/pages-login-manage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/Logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/wx_cz.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/zoom.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/icons.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/_/y24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/pages-shoplogin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="275" lean-forward="false" selection-start-line="0" selection-start-column="272" selection-end-line="0" selection-end-column="275" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="39" column="54" lean-forward="true" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="131" />
+        <state relative-caret-position="-437">
+          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/_/sampling_head.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/_/title_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/pages-sampling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="131" lean-forward="false" selection-start-line="0" selection-start-column="130" selection-end-line="0" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/pages-register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="91" lean-forward="false" selection-start-line="0" selection-start-column="88" selection-end-line="0" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/img/_/cooperation_banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/pages-cooperation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="137" lean-forward="false" selection-start-line="0" selection-start-column="134" selection-end-line="0" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2580">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/css/webbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38294">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomaigou_shop_web/src/main/webapp/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="639">
+          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
+          <folding>
+            <element signature="e#3012#3013#0" expanded="false" />
+            <element signature="e#3074#3075#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="100" column="65" lean-forward="false" selection-start-line="100" selection-start-column="65" selection-end-line="100" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="93" column="27" lean-forward="false" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/admin/item_cat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/controller/itemCatController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="109" column="37" lean-forward="true" selection-start-line="109" selection-start-column="37" selection-end-line="109" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_manager_web/src/main/webapp/js/service/itemCatService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding />
         </state>
       </provider>
