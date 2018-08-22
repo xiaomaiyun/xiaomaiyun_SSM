@@ -1,6 +1,7 @@
 package com.xiaomaigou.sellergoods.service;
 
 import com.xiaomaigou.pojo.TbGoods;
+import com.xiaomaigou.pojogroup.Goods;
 import entity.PageResult;
 
 import java.util.List;
@@ -31,9 +32,9 @@ public interface GoodsService {
 
 
     /**
-     * 增加
+     * 增加，使用组合实体类
      */
-    public void add(TbGoods goods);
+    public void add(Goods goods);
 
 
     /**

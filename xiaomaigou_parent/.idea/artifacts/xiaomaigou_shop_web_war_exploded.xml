@@ -52,6 +52,12 @@
           <element id="archive" name="xiaomaigou_pojo-1.0-SNAPSHOT.jar">
             <element id="module-output" name="xiaomaigou_pojo" />
           </element>
+          <element id="archive" name="xiaomaigou_common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="xiaomaigou_common" />
+          </element>
+          <element id="library" level="project" name="Maven: org.csource.fastdfs:fastdfs:1.2" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
         </element>
       </element>
       <element id="directory" name="META-INF">

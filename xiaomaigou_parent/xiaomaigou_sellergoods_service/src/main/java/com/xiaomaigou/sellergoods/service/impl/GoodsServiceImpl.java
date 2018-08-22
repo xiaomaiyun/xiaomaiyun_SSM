@@ -1,16 +1,19 @@
 package com.xiaomaigou.sellergoods.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
+import com.alibaba.fastjson.JSON;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.xiaomaigou.mapper.TbGoodsMapper;
-import com.xiaomaigou.pojo.TbGoods;
-import com.xiaomaigou.pojo.TbGoodsExample;
+import com.xiaomaigou.mapper.*;
+import com.xiaomaigou.pojo.*;
+import com.xiaomaigou.pojogroup.Goods;
 import com.xiaomaigou.sellergoods.service.GoodsService;
 import entity.PageResult;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.Date;
 import java.util.List;
+import java.util.Map;
 
 /**
  * 服务实现层
@@ -25,6 +28,16 @@ public class GoodsServiceImpl implements GoodsService {
     //注意：此处为本地调用
     @Autowired
     private TbGoodsMapper goodsMapper;
+    @Autowired
+    private TbGoodsDescMapper goodsDescMapper;
+    @Autowired
+    private TbItemMapper itemMapper;
+    @Autowired
+    private TbItemCatMapper itemCatMapper;
+    @Autowired
+    private TbBrandMapper brandMapper;
+    @Autowired
+    private TbSellerMapper sellerMapper;
 
     /**
      * 查询全部
@@ -48,10 +61,80 @@ public class GoodsServiceImpl implements GoodsService {
      * 增加
      */
     @Override
-    public void add(TbGoods goods) {
-        goodsMapper.insert(goods);
+    public void add(Goods goods) {
+        //新增加的商品状态为未审核(0)状态
+        goods.getGoods().setAuditStatus("0");
+        //插入商品基本信息
+        goodsMapper.insert(goods.getGoods());
+
+        //将商品基本表的id给商品扩展表
+        goods.getGoodsDesc().setGoodsId(goods.getGoods().getId());
+        //插入商品扩展表
+        goodsDescMapper.insert(goods.getGoodsDesc());
+
+        if ("1".equals(goods.getGoods().getIsEnableSpec())) {
+            //传进来的goods.getItemList()中，暂时只有前端页面上的内容，而数据库tb_item表示SKU表，即存储单位，包括了每条商品的所有信息，所以，我们需要遍历每条商品，把缺的值补充上（如品牌、商家等）
+            //tb_item表示看上去有冗余数据，但是，这是在后面的搜索作准备
+            for (TbItem item : goods.getItemList()) {
+                //构建标题  SPU名称+ 规格选项值
+                String title = goods.getGoods().getGoodsName();//SPU名称
+                Map<String, Object> map = JSON.parseObject(item.getSpec());//该SKU的所有规则，转换成map
+                for (String key : map.keySet()) {
+                    //规格选项，用空格" "隔开
+                    title += " " + map.get(key);
+                }
+                item.setTitle(title);
+                //设置商品数据
+                setItemValues(item, goods);
+
+                itemMapper.insert(item);
+
+            }
+        } else {//没有启用规格
+
+            TbItem item = new TbItem();
+            item.setTitle(goods.getGoods().getGoodsName());//标题
+            item.setPrice(goods.getGoods().getPrice());//价格
+            item.setNum(99999);//库存数量
+            item.setStatus("1");//状态
+            item.setIsDefault("1");//默认
+            item.setSpec("{}");//规格
+
+            setItemValues(item, goods);
+
+            itemMapper.insert(item);
+        }
     }
 
+    private void setItemValues(TbItem item, Goods goods) {
+
+        item.setCreateTime(new Date());//创建日期
+        item.setUpdateTime(new Date());//更新日期
+
+        item.setGoodsId(goods.getGoods().getId());//商品ID（也是商品SPU编号）
+        item.setSellerId(goods.getGoods().getSellerId());//商家ID
+
+        //商品分类
+        item.setCategoryid(goods.getGoods().getCategory3Id());//三级分类ID
+        TbItemCat itemCat = itemCatMapper.selectByPrimaryKey(goods.getGoods().getCategory3Id());//根据三级分类id获取分类名称
+        item.setCategory(itemCat.getName());//三级分类名称
+
+        //品牌名称
+        TbBrand brand = brandMapper.selectByPrimaryKey(goods.getGoods().getBrandId());//根据品牌id获取品牌名称
+        item.setBrand(brand.getName());
+
+        //店铺名称
+        TbSeller seller = sellerMapper.selectByPrimaryKey(goods.getGoods().getSellerId());//根据商家id获取店铺名称
+        //注意：是店铺名称
+        item.setSeller(seller.getNickName());
+
+        //图片地址（取spu的第一个图片）
+        List<Map> imageList = JSON.parseArray(goods.getGoodsDesc().getItemImages(), Map.class);
+        if (imageList.size() > 0) {
+            item.setImage((String) imageList.get(0).get("url"));
+        }
+
+    }
 
     /**
      * 修改

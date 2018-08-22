@@ -93,6 +93,7 @@ com\xiaomaigou\pojo\TbSpecificationExample$Criterion.class
 com\xiaomaigou\pojo\TbItem.class
 com\xiaomaigou\pojo\TbSellerExample$Criteria.class
 com\xiaomaigou\pojo\TbGoodsDesc.class
+com\xiaomaigou\pojogroup\Goods.class
 entity\PageResult.class
 com\xiaomaigou\pojo\TbGoods.class
 com\xiaomaigou\pojo\TbSpecificationOptionExample$Criterion.class

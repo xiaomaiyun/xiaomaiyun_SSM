@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.chenjian.fastdfs</groupId>
+    <artifactId>FastDFS_demo</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <!-- 需要手动安装：mvn install:install-file -Dfile=/D:/win10/chenjian2017/intellijIDEA/xiaomaiyun_SSM/FastDFS/fastdfs_client_v1.20.jar -DgroupId=org.csource.fastdfs -DartifactId=fastdfs -Dversion=1.2 -Dpackaging=jar -->
+    <dependencies>
+        <dependency>
+            <groupId>org.csource.fastdfs</groupId>
+            <artifactId>fastdfs</artifactId>
+            <version>1.2</version>
+        </dependency>
+
+    </dependencies>
+
+
+</project>
