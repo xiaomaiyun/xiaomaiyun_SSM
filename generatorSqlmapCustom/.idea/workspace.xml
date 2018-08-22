@@ -2,80 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285f82bd-2505-4815-82dd-b965b150f8af" name="Default" comment="generatorSqlmapCustom，逆向工程">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/FastDFS_demo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/src/main/java/com/chenjian/fastdfs/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/src/main/resources/fdfs_client.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/target/classes/com/chenjian/fastdfs/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/FastDFS_demo/target/classes/fdfs_client.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../FastDFS/fastdfs_client_v1.20.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/src/main/java/util/FastDFSClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/src/main/java/com/xiaomaigou/pojogroup/Goods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/ItemCatController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/TypeTemplateController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/UploadController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/resources/config/fdfs_client.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/service/itemCatService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/service/typeTemplateService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/service/uploadService.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/artifacts/xiaomaigou_shop_web_war_exploded.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/artifacts/xiaomaigou_shop_web_war_exploded.xml" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/pom.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/pom.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/pom.xml" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/target/xiaomaigou_common-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/xiaomaigou_common.iml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_common/xiaomaigou_common.iml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbGoodsMapper.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/src/main/resources/com/xiaomaigou/mapper/TbGoodsMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/classes/com/xiaomaigou/mapper/TbGoodsMapper.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/classes/com/xiaomaigou/mapper/TbGoodsMapper.xml" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_dao/target/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/GoodsController.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/java/com/xiaomaigou/manager/controller/GoodsController.java" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/type_template.html" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/goods.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/admin/goods.html" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/goodsController.js" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/controller/goodsController.js" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/service/goodsService.js" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/src/main/webapp/js/service/goodsService.js" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web.war" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/item_cat.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/item_cat.html" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/type_template.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/type_template.html" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/goods.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_manager_web/target/xiaomaigou_manager_web/admin/goods.html" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_pojo/target/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/GoodsService.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/GoodsService.java" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/TypeTemplateService.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/src/main/java/com/xiaomaigou/sellergoods/service/TypeTemplateService.java" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_interface/target/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/GoodsDescServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/GoodsDescServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/GoodsServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/GoodsServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemCatServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/ItemServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SellerServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SellerServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SpecificationOptionServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SpecificationOptionServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SpecificationServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/SpecificationServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/TypeTemplateServiceImpl.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/src/main/java/com/xiaomaigou/sellergoods/service/impl/TypeTemplateServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service.war" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/classes/com/xiaomaigou/sellergoods/service/impl/BrandServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_dao-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_sellergoods_service/target/xiaomaigou_sellergoods_service/WEB-INF/lib/xiaomaigou_sellergoods_interface-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/pom.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/pom.xml" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/GoodsController.java" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/java/com/xiaomaigou/shop/controller/GoodsController.java" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/resources/config/application.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/resources/config/application.properties" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/admin/goods.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/admin/goods.html" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/admin/goods_edit.html" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/admin/goods_edit.html" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/controller/baseController.js" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/controller/baseController.js" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/controller/goodsController.js" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/src/main/webapp/js/controller/goodsController.js" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/classes/config/application.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/classes/config/application.properties" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/classes/spring/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web.war" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/classes/config/application.properties" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/classes/config/application.properties" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/target/xiaomaigou_shop_web/WEB-INF/classes/spring/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" afterPath="$PROJECT_DIR$/../xiaomaigou_parent/xiaomaigou_shop_web/xiaomaigou_shop_web.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="810" />
     <option name="y" value="7" />
     <option name="width" value="1119" />
@@ -282,7 +248,7 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/acc/xiaomaigou_parent" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -425,7 +391,7 @@
       <workItem from="1534319239431" duration="1106000" />
       <workItem from="1534324733404" duration="4051000" />
       <workItem from="1534342049655" duration="9388000" />
-      <workItem from="1534644843584" duration="598000" />
+      <workItem from="1534644843584" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="generatorSqlmapCustom，逆向工程">
       <created>1534313620899</created>
@@ -459,10 +425,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15376000" />
+    <option name="totallyTimeSpent" value="16613000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="810" y="7" width="1119" height="780" extended-state="1" />
+    <frame x="810" y="7" width="1119" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

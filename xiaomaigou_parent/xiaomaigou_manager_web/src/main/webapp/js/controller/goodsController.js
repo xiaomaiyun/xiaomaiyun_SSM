@@ -1,5 +1,5 @@
 // 控制层
-app.controller('goodsController', function ($scope, $controller, goodsService) {
+app.controller('goodsController', function ($scope, $controller, goodsService,itemCatService) {
 
     // 继承标准格式（加上这行代码，就可以实现继承的效果，其实是伪继承）
     //$controller也是angular提供的一个服务，可以实现伪继承，实际上就是与baseController共享$scope
@@ -45,6 +45,7 @@ app.controller('goodsController', function ($scope, $controller, goodsService) {
         serviceObject.success(
             function (response) {
                 if (response.success) {
+                    alert(response.message);
                     //重新查询
                     $scope.reloadList();//重新加载
                 } else {
@@ -57,9 +58,10 @@ app.controller('goodsController', function ($scope, $controller, goodsService) {
     //批量删除，由于delete是关键字，所以此处使用dele
     $scope.dele = function () {
         if (confirm('确定要删除吗？')) {
-            brandService.dele($scope.selectIds).success(
+            goodsService.dele($scope.selectIds).success(
                 function (response) {
                     if (response.success) {
+                        alert(response.message);
                         $scope.reloadList();//刷新列表
                         $scope.selectIds = [];
                     } else {
@@ -79,6 +81,38 @@ app.controller('goodsController', function ($scope, $controller, goodsService) {
             function (response) {
                 $scope.list = response.rows;//显示当前页数据
                 $scope.paginationConf.totalItems = response.total;//更新总记录数
+            }
+        );
+    }
+
+    //用于转换状态
+    $scope.status=['未审核','审核通过','审核未通过','已关闭'];
+
+    $scope.itemCatList=[];//商品分类列表
+    //查询商品所有分类列表
+    $scope.findItemCatList=function(){
+        itemCatService.findAll().success(
+            function(response){
+                for(var i=0;i<response.length;i++){
+                    //因为需要根据分类ID得到分类名称，所以将返回的查询结果以数组形式再次封装
+                    $scope.itemCatList[response[i].id]=response[i].name;
+                }
+            }
+        );
+
+    }
+
+    //更新状态
+    $scope.updateStatus=function(status){
+        goodsService.updateStatus( $scope.selectIds ,status).success(
+            function(response){
+                if(response.success){
+                    alert(response.message);
+                    $scope.reloadList();//刷新页面
+                    $scope.selectIds=[];//清空勾选集合
+                }else{
+                    alert(response.message);
+                }
             }
         );
     }

@@ -9,6 +9,7 @@ import com.xiaomaigou.pojo.TbSellerExample;
 import com.xiaomaigou.sellergoods.service.SellerService;
 import entity.PageResult;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Date;
 import java.util.List;
